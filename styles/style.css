@@ -69,6 +69,22 @@ header{
 .vip{
     color: green;
 }
+/* succed section styles */
+.s-about{
+    display: flex;
+    justify-items: center;
+}
+.s-text{
+    margin-left: 200px;
+    margin-top: 375px;
+}
+.s-picture{
+    margin-right: 110px;
+    margin-top: 160px;
+    width: 569px;
+    height: 700px;
+}
+/* plan section style */
 .plan-title{
     margin-top: 150px;
     text-align: center;
