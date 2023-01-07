@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+}
+header{
+    background-image: url("../images/banner/banner2.png");
+    width: 1440px;
+    height: 800px;
+    text-align: right;
+}
+.header-title{
+    font-weight: 700;
+    font-size: 55px;
+    padding: 200px 200px 20px 800px;
+    color: #151414;
+}
+.header-discription{
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 850px;
+    margin-right: 200px;
+    color: #444343;
+}
+.btn-primary{
+    margin-top: 32px;
+    color: white;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    height: 64px;
+    padding: 20px 25px;
+    margin-right: 200px;
+    cursor: pointer;
+}
+.about{
+    display: flex;
+    justify-items: center;
+}.picture{
+    margin-top: 130px;
+    margin-left: 190px;
+    width: 569px;
+    height: 723.3px;
+}
+.text{
+    margin-left: 100px;
+    margin-top: 375px;
+}
+.about-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-right: 300px;
+    margin-bottom: 24px;
+}
+.about-discreption{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-right: 270px;
+    margin-bottom: 16px;
+}
+.fail{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+.vip{
+    color: green;
+}
+.plan-title{
+    margin-top: 150px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.my-plan{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 150px;
+    text-align: center;
+}
+.p-title{
+    text-align: center;
+    padding-top: 15px;
+}
+.p-t{
+    font-weight: 700;
+    font-size: 24px;
+    color: #151414;
+}
+.p-d{
+    padding-top: 15px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+    font-family: 'Work Sans';
+}
+/* Flayer section styles */
+.flayer{
+    margin-top: 140px;
+    height: 300px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url("../images/watch.png");
+    background-repeat: no-repeat;
+    border: 0;
+    border-radius: 10px;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.flayer-titel{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    font-family: 'Work Sans';
+    padding: 60px 615px 24px 65px;
+}
+.snd-primary{
+    color: #F15B22;
+    background: white;
+    border-radius: 8px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    height: 64px;
+    padding: 20px 25px;
+    font-family: 'Work Sans';
+    margin-left: 65px;
+    cursor: pointer;
+}
+/* footer section style */
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #151414;
+    height: 300px;
+    margin-top: 140px;
+    padding: 130px 230px;
+}
+.f-t{
+    color: white;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.add{
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.mail{
+    color: white;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.num{
+    color: white;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+#email{
+    width: 325px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 10px 30px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    cursor: auto;
+}
+.btn input{
+    margin: 0;
+}
+.btn input:hover{
+    color: white;
+    background: #F15B22;
+}
+.snd-primary:hover{
+    color: white;
+    background: #F15B22;
+}
+.btn-primary:hover{
+    color: #F15B22;
+    background: white;
+}
+.icon{
+    cursor: pointer;
+}
